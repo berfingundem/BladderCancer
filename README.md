@@ -12,8 +12,6 @@
 - [Veri Kümesi](#veri-kümesi)  
 - [Kurulum & Çalıştırma](#kurulum--çalıştırma)  
 - [Deneyler & Sonuçlar](#deneyler--sonuçlar)  
-- [İyileştirme Fırsatları](#iyileştirme-fırsatları)  
-- [Katkıda Bulunma](#katkıda-bulunma)  
 - [Lisans](#lisans)
 
 ---
