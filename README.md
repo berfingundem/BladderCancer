@@ -56,6 +56,3 @@ Projede kullanılan modeller:
 Aşağıdaki adımları takip ederek projeyi kendi bilgisayarında çalıştırabilirsin:
 - Bu çalışma **Google Colab** üzerinde gerçekleştirilmiştir. 
 - bladder_set link : https://drive.google.com/file/d/1F8EdWmNaLIEDvKF-XnGhcYV5YI0UTUBu/view?usp=drive_link
-
-# Modeli çalıştır
-python run_model.py --model ViT --data_dir data/ --epochs 50 --batch_size 16
